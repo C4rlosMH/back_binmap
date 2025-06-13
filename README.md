@@ -12,8 +12,7 @@ BinMap API es el servicio backend que impulsa una aplicación móvil diseñada c
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/Mario-jesus/binmap_api.git
-cd binmap_api
+git clone https://github.com/C4rlosMH/back_binmap.git
 ```
 
 ### 2. Configurar el entorno virtual e instalar dependencias
